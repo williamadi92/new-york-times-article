@@ -21,8 +21,8 @@ A modern web application that displays the latest articles from the New York Tim
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/username/nyt-article-viewer.git
-cd nyt-article-viewer
+git clone https://github.com/williamadi92/new-york-times-article.git
+cd new-york-times-article
 ```
 
 2. **Install dependencies**
