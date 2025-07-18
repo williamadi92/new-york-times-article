@@ -15,6 +15,8 @@ A modern web application that displays the latest articles from the New York Tim
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [New York Times API](https://developer.nytimes.com/) – Article data source
+- [Vitest](https://vitest.dev/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ## 📦 Installation
 
@@ -45,3 +47,9 @@ npm run dev
 ```
 
 The app will be available at: http://localhost:5173
+
+5. **Run Unit Test**
+
+```bash
+npm run test
+```
